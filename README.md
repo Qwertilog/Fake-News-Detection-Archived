@@ -12,11 +12,17 @@ The main objective of this project is to provide a tool that could assess and di
 5. Efficiency of machine learning-based model in verifying text-based and web-based inputs using language-centered verification algorithms and classification techniques. 
 
 **Techinal tools used:**
+
 Jupyter Notebook, Python, (lagay nalang dito lahat ng mga gagamitin natin na features)
 
 **Dataset(s)**
+
 ++Under development
 
 **Necessary Links**
 
+++Under development
+
 # Results and Graphs
+
+++Have not yet achieved
