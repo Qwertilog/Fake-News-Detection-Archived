@@ -1,5 +1,6 @@
 # FAI(TH): Falsified Narrative Verification through Machine Learning Ensemble Methods for Text and Web-Based Inputs (Text and Hyperlinks)
 **A reaserach project for CAPSTONE**
+
 The Internet had become an integral part of the electronic media, mainly in terms of disseminating information to the public. As internet consumption is growing over the past years, the circulation of news online has also been rapidly increasing. Along with this, disinformation or fake news rapidly speads throughout the internet, narrowing the difference between fake and real.
 
 ## Objective:
